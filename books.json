@@ -1,0 +1,62 @@
+[
+  {
+    "isbn": "9780141439518",
+    "title": "Pride and Prejudice",
+    "publication_year": 1813,
+    "author_id": 1
+  },
+  {
+    "isbn": "9780451524935",
+    "title": "1984",
+    "publication_year": 1949,
+    "author_id": 2
+  },
+  {
+    "isbn": "9780061120084",
+    "title": "To Kill a Mockingbird",
+    "publication_year": 1960,
+    "author_id": 3
+  },
+  {
+    "isbn": "9780747532743",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "publication_year": 1997,
+    "author_id": 4
+  },
+  {
+    "isbn": "9780743273565",
+    "title": "The Great Gatsby",
+    "publication_year": 1925,
+    "author_id": 5
+  },
+  {
+    "isbn": "9780143131847",
+    "title": "Frankenstein",
+    "publication_year": 1818,
+    "author_id": 6
+  },
+  {
+    "isbn": "9780375842207",
+    "title": "The Book Thief",
+    "publication_year": 2005,
+    "author_id": 7
+  },
+  {
+    "isbn": "9780261103573",
+    "title": "The Fellowship of the Ring",
+    "publication_year": 1954,
+    "author_id": 8
+  },
+  {
+    "isbn": "9781503280786",
+    "title": "Moby-Dick",
+    "publication_year": 1851,
+    "author_id": 9
+  },
+  {
+    "isbn": "9780439064873",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "publication_year": 1998,
+    "author_id": 4
+  }
+]
