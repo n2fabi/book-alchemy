@@ -245,3 +245,5 @@ def delete_book(book_id):
 
 with app.app_context():
   db.create_all()
+
+
